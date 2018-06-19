@@ -1,0 +1,10 @@
+1 3D Projector, Electronics, 800, 2
+2 Screen Electronics, 200, 28
+3 Speaker Sytem, Electronics, 800, 19
+4 3D glasses , Electronics, 10, 2
+5 laptop, Electronics, 1200, 22
+6 Microwave, Electronics, 200, 12
+7 Lazy Boy, Furniture, 600, 16
+8 Xbox One, Electronics, 400, 24
+9 Refrigerator, Appliance, 850, 18
+10 Toaster Oven, Appliance, 150, 26
